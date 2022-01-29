@@ -11,7 +11,10 @@
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight="1" />
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Made by: Ilai Shimoni, Teacher: Albert levi"
+        android:textSize="34sp" />
 
     <Button
         android:id="@+id/button3"
